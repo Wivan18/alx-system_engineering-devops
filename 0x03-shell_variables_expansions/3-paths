@@ -1,0 +1,2 @@
+#!/bin/bash
+num_directories=$(find "path_to_count" -type d | wc -l)

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BREATH to the power LOVE equals $((BREATH**LOVE))
+echo BREATH to the power LOVE equals $(($BREATH**$LOVE))
